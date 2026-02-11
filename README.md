@@ -1,4 +1,4 @@
-<img width="955" height="955" alt="SLogoEmp" src="https://github.com/user-attachments/assets/dc780278-bcea-4d50-8c8c-4777626e7bd0" />
+<img width="400" height="400" alt="SLogoEmp" src="https://github.com/user-attachments/assets/dc780278-bcea-4d50-8c8c-4777626e7bd0" />
 # Solar-A2026 Electiva Desarrollo Web
   
 We believe web development should go beyond just building apps — it should help people understand the digital world they live in. Our projects focus on education, social awareness, and responsible technology use, especially in areas like artificial intelligence and its environmental impact.
@@ -27,10 +27,8 @@ The platform would include short lessons, interactive modules, and quizzes desig
 
 Goal: Make people more aware, critical, and responsible digital citizens.
 
-## > Community Resource & Initiative Map
+## > Interactive Music Learning Platform
 
-A web application where users can explore and share local initiatives related to sustainability, education, and social impact.
-It could include a map interface, project descriptions, and ways to participate or contribute.
+A web app that makes learning music engaging through interactive exercises, real-time feedback and personalized lessons. It tracks user progress and adapts content based on performance , turning music practice into a dynamic experience.
 
-Goal: Connect people with real-world actions that create positive social and environmental change.
-
+Goal: Create an interactive full-stack platform that helps users learn music faster and more effectively through hands-on practice and personalized feedback.
