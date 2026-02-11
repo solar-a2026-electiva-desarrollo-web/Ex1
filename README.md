@@ -1,4 +1,5 @@
 <img width="400" height="400" alt="SLogoEmp" src="https://github.com/user-attachments/assets/dc780278-bcea-4d50-8c8c-4777626e7bd0" />
+
 # Solar-A2026 Electiva Desarrollo Web
   
 We believe web development should go beyond just building apps — it should help people understand the digital world they live in. Our projects focus on education, social awareness, and responsible technology use, especially in areas like artificial intelligence and its environmental impact.
